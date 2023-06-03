@@ -1,0 +1,45 @@
+CRITICAL - 2023-04-11 01:05:46 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('favicon.ico')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-11 01:05:56 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('\xE0\xA6\x8F\xE0\xA6\x95-\xE0\xA6\x9C\xE0\xA7\x8B\xE0\xA6...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-11 03:26:56 --> Call to undefined method App\Controllers\Api::respond()
+#0 E:\TBM\montaj_app\system\CodeIgniter.php(832): App\Controllers\Api->index()
+#1 E:\TBM\montaj_app\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 E:\TBM\montaj_app\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\TBM\montaj_app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\TBM\montaj_app\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\montaj_a...')
+#5 {main}
+CRITICAL - 2023-04-11 07:05:05 --> Undefined variable $post_title
+#0 E:\TBM\montaj_app\app\Controllers\BlogApiController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\TBM\\montaj_a...', 49)
+#1 E:\TBM\montaj_app\system\CodeIgniter.php(832): App\Controllers\BlogApiController->create()
+#2 E:\TBM\montaj_app\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogApiController))
+#3 E:\TBM\montaj_app\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\TBM\montaj_app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\TBM\montaj_app\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\montaj_a...')
+#6 {main}
+CRITICAL - 2023-04-11 07:06:34 --> Undefined variable $short_desc
+#0 E:\TBM\montaj_app\app\Controllers\BlogApiController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\TBM\\montaj_a...', 51)
+#1 E:\TBM\montaj_app\system\CodeIgniter.php(832): App\Controllers\BlogApiController->create()
+#2 E:\TBM\montaj_app\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogApiController))
+#3 E:\TBM\montaj_app\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\TBM\montaj_app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\TBM\montaj_app\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\montaj_a...')
+#6 {main}
+CRITICAL - 2023-04-11 08:10:02 --> Undefined variable $blog_slug
+#0 E:\TBM\montaj_app\app\Controllers\BlogApiController.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\TBM\\montaj_a...', 88)
+#1 E:\TBM\montaj_app\system\CodeIgniter.php(832): App\Controllers\BlogApiController->edit()
+#2 E:\TBM\montaj_app\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogApiController))
+#3 E:\TBM\montaj_app\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\TBM\montaj_app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\TBM\montaj_app\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\montaj_a...')
+#6 {main}

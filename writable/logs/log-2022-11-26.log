@@ -1,0 +1,182 @@
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:25 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:26 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:26 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:26 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:26 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:26 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:26 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-26 05:22:26 --> App\Controllers\Home::galleryDetails(): Argument #1 ($id) must be of type int, string given, called in /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php on line 832
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Home->galleryDetails()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}

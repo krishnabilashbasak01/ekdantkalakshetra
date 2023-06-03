@@ -1,0 +1,578 @@
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'font-awesome', 'css', 'fontawesome-all...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'animate.css', 'animate.css')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'malihu-custom-s...', 'jquery.mCustomS...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'bootstrap-selec...', 'dist', 'css', 'bootstrap-selec...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'slick-carousel', 'slick', 'slick.css')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'flaticon', 'font', 'flaticon.css')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'css', 'theme.css')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'jquery', 'dist', 'jquery.min.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'bootstrap', 'bootstrap.min.j...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:55 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'jquery-migrate', 'dist', 'jquery-migrate....')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'popper.js', 'dist', 'umd', 'popper.min.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'slick-carousel', 'slick', 'slick.min.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'bootstrap-selec...', 'dist', 'js', 'bootstrap-selec...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'multilevel-slid...', 'dist', 'jquery.zeynep.j...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'malihu-custom-s...', 'jquery.mCustomS...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'hs.core.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.unfold.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.header.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.slick-carous...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.selectpicker...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.malihu-scrol...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'img', '1400x650', 'img1.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.show-animati...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'img', '120x120', 'img1.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:56 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'img', '360x250', 'img1.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:57 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'img', '324x38', 'img1.png')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:57 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'img', '393x350', 'img1.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:57 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'img', '360x250', 'img2.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:57 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('favicon.ico')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:57 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'img', '393x350', 'img2.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:57 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'img', '553x350', 'img1.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:22:57 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 123, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('favicon.ico')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 00:25:00 --> Undefined variable: post_categories
+#0 C:\laragon\www\montajpublishing\app\Views\client\blog.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\montajpublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\montajpublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\montajpublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/blog', Array, true)
+#4 C:\laragon\www\montajpublishing\app\Controllers\Home.php(127): view('client/blog', Array)
+#5 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('dasd-sadsa-asda...')
+#6 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-27 00:29:02 --> date_format() expects parameter 1 to be DateTimeInterface, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'date_format() e...', 'C:\\laragon\\www\\...', 85, Array)
+#1 C:\laragon\www\montajpublishing\app\Views\client\blog.php(85): date_format('2022-06-03 17:0...', 'Y/m/d')
+#2 C:\laragon\www\montajpublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#3 C:\laragon\www\montajpublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\laragon\www\montajpublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/blog', Array, true)
+#5 C:\laragon\www\montajpublishing\app\Controllers\Home.php(127): view('client/blog', Array)
+#6 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('dasd-sadsa-asda...')
+#7 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-08-27 05:14:19 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'font-awesome', 'css', 'fontawesome-all...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:19 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'animate.css', 'animate.css')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:19 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'fancybox', 'jquery.fancybox...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:19 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'slick-carousel', 'slick', 'slick.css')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:19 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'flaticon', 'font', 'flaticon.css')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:19 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'bootstrap-selec...', 'dist', 'css', 'bootstrap-selec...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:19 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'malihu-custom-s...', 'jquery.mCustomS...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:19 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'css', 'theme.css')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:20 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'appear.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:20 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'jquery', 'dist', 'jquery.min.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:20 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'popper.js', 'dist', 'umd', 'popper.min.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:20 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'jquery-migrate', 'dist', 'jquery-migrate....')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:20 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'bootstrap', 'bootstrap.min.j...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:20 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'fancybox', 'jquery.fancybox...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:20 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'multilevel-slid...', 'dist', 'jquery.zeynep.j...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:20 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'hs-megamenu', 'src', 'hs.megamenu.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:20 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'slick-carousel', 'slick', 'slick.min.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'malihu-custom-s...', 'jquery.mCustomS...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'vendor', 'bootstrap-selec...', 'dist', 'js', 'bootstrap-selec...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'hs.core.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'components', 'hs.unfold.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'components', 'hs.malihu-scrol...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'components', 'hs.slick-carous...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'components', 'hs.fancybox.js')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'components', 'hs.show-animati...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'components', 'hs.onscroll-ani...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'components', 'hs.quantity-cou...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'components', 'hs.selectpicker...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'js', 'components', 'hs.scroll-nav.j...')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '300x452', 'img2.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:21 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '120x180', 'img2.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '120x180', 'img1.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '120x180', 'img3.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '120x180', 'img5.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '120x180', 'img4.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '324x38', 'img1.png')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '120x180', 'img7.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '120x180', 'img8.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('favicon.ico')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('client_assets', 'img', '120x180', 'img6.jpg')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 05:14:22 --> Undefined offset: 0
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(156): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 156, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('favicon.ico')
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 06:45:50 --> Array to string conversion
+#0 C:\laragon\www\montajpublishing\app\Controllers\Home.php(193): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\laragon\\www\\...', 193, Array)
+#1 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->addToCart(3)
+#2 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-27 06:52:27 --> Undefined variable: product_price
+#0 C:\laragon\www\montajpublishing\app\Views\client\product.php(142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 142, Array)
+#1 C:\laragon\www\montajpublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\montajpublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\montajpublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/product', Array, true)
+#4 C:\laragon\www\montajpublishing\app\Controllers\Home.php(164): view('client/product', Array)
+#5 C:\laragon\www\montajpublishing\system\CodeIgniter.php(832): App\Controllers\Home->product('\xE0\xA6\x96\xE0\xA7\x87\xE0\xA6\xB2\xE0\xA6\xBE-\xE0\xA6...')
+#6 C:\laragon\www\montajpublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\montajpublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\montajpublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-08-27 08:05:04 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-08-27 08:05:04 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/thinkbizzmarcom/beta.montajpublishing.com/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/thinkbizzmarcom/beta.montajpublishing.com/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/thinkbizzmarcom/beta.montajpublishing.com/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/thinkbizzmarcom/beta.montajpublishing.com/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 12)
+#4 /home/thinkbizzmarcom/beta.montajpublishing.com/app/Controllers/Home.php(28): CodeIgniter\BaseModel->findAll(0, 12)
+#5 /home/thinkbizzmarcom/beta.montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->index()
+#6 /home/thinkbizzmarcom/beta.montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/thinkbizzmarcom/beta.montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/thinkbizzmarcom/beta.montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-08-27 08:05:15 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-08-27 08:05:15 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/thinkbizzmarcom/beta.montajpublishing.com/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/thinkbizzmarcom/beta.montajpublishing.com/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/thinkbizzmarcom/beta.montajpublishing.com/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/thinkbizzmarcom/beta.montajpublishing.com/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 12)
+#4 /home/thinkbizzmarcom/beta.montajpublishing.com/app/Controllers/Home.php(28): CodeIgniter\BaseModel->findAll(0, 12)
+#5 /home/thinkbizzmarcom/beta.montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->index()
+#6 /home/thinkbizzmarcom/beta.montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/thinkbizzmarcom/beta.montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/thinkbizzmarcom/beta.montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

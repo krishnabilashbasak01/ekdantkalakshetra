@@ -1,0 +1,180 @@
+CRITICAL - 2022-06-12 19:55:32 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\anushapublishing\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\anushapublishing\app\Filters\UserAuth.php(14): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\anushapublishing\system\Filters\Filters.php(173): App\Filters\UserAuth->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('add-to-cart/rel...', 'before')
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-12 19:57:26 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\anushapublishing\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\anushapublishing\app\Filters\UserAuth.php(14): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\anushapublishing\system\Filters\Filters.php(173): App\Filters\UserAuth->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('add-to-cart/rel...', 'before')
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-12 20:00:07 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\anushapublishing\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\anushapublishing\app\Filters\UserAuth.php(14): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\anushapublishing\system\Filters\Filters.php(173): App\Filters\UserAuth->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('add-to-cart/2', 'before')
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-12 20:01:33 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\anushapublishing\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\anushapublishing\app\Filters\UserAuth.php(14): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\anushapublishing\system\Filters\Filters.php(173): App\Filters\UserAuth->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('cart', 'before')
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-12 20:02:48 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\anushapublishing\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\anushapublishing\app\Filters\UserAuth.php(14): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\anushapublishing\system\Filters\Filters.php(173): App\Filters\UserAuth->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('cart', 'before')
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-12 20:03:06 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\anushapublishing\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\anushapublishing\app\Filters\UserAuth.php(14): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\anushapublishing\system\Filters\Filters.php(173): App\Filters\UserAuth->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('account', 'before')
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-12 20:06:17 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\anushapublishing\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\anushapublishing\app\Filters\UserAuth.php(14): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\anushapublishing\system\Filters\Filters.php(173): App\Filters\UserAuth->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('cart', 'before')
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-06-12 20:33:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@outlook.com AND `product_id` = 2 AND `id` = 2' at line 1
+CRITICAL - 2022-06-12 20:33:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@outlook.com AND `product_id` = 2 AND `id` = 2' at line 1
+#0 C:\laragon\www\anushapublishing\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `cart` S...', 0)
+#1 C:\laragon\www\anushapublishing\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `cart` S...')
+#2 C:\laragon\www\anushapublishing\app\Controllers\Home.php(179): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `cart` S...')
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->addToCart(2)
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-12 21:02:49 --> Call to undefined method CodeIgniter\Session\Session::set_flashdata()
+#0 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->addToCart(2)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-12 21:07:55 --> Undefined property: App\Controllers\Home::$load
+#0 C:\laragon\www\anushapublishing\app\Controllers\Home.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\laragon\\www\\...', 17, Array)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-12 21:09:31 --> Call to undefined method CodeIgniter\Session\Session::set_flashdata()
+#0 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->addToCart(2)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-12 21:41:15 --> Trying to access array offset on value of type null
+#0 C:\laragon\www\anushapublishing\app\Controllers\Home.php(172): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\laragon\\www\\...', 172, Array)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->addToCart(1)
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-12 22:42:55 --> Undefined variable: billing_address_id
+#0 C:\laragon\www\anushapublishing\app\Views\client\account.php(169): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 169, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/account', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(272): view('client/account', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->account()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-12 23:43:35 --> Array to string conversion
+#0 C:\laragon\www\anushapublishing\app\Views\client\cart.php(174): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\laragon\\www\\...', 174, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/cart', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(209): view('client/cart', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->cart()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-12 23:43:37 --> Array to string conversion
+#0 C:\laragon\www\anushapublishing\app\Views\client\cart.php(174): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\laragon\\www\\...', 174, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/cart', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(209): view('client/cart', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->cart()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-12 23:44:01 --> Array to string conversion
+#0 C:\laragon\www\anushapublishing\app\Views\client\cart.php(174): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\laragon\\www\\...', 174, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/cart', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(209): view('client/cart', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->cart()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-12 23:44:25 --> Array to string conversion
+#0 C:\laragon\www\anushapublishing\app\Views\client\cart.php(174): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\laragon\\www\\...', 174, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/cart', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(209): view('client/cart', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->cart()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-12 23:46:26 --> Array to string conversion
+#0 C:\laragon\www\anushapublishing\app\Views\client\cart.php(174): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\laragon\\www\\...', 174, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/cart', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(209): view('client/cart', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->cart()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-12 23:47:02 --> Array to string conversion
+#0 C:\laragon\www\anushapublishing\app\Views\client\cart.php(174): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\laragon\\www\\...', 174, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/cart', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(209): view('client/cart', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->cart()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-12 23:47:14 --> Array to string conversion
+#0 C:\laragon\www\anushapublishing\app\Views\client\cart.php(174): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\laragon\\www\\...', 174, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/cart', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(209): view('client/cart', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->cart()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

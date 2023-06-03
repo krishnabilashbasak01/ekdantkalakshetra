@@ -1,0 +1,93 @@
+CRITICAL - 2022-06-06 01:09:55 --> Undefined index: post_slug
+#0 C:\laragon\www\anushapublishing\app\Views\client\blog.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\laragon\\www\\...', 10, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/blog', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(45): view('client/blog', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('dasd-sadsa-asda...')
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-06 01:52:16 --> Table 'tbm_anushapublishing.post_comments' doesn't exist
+CRITICAL - 2022-06-06 01:52:16 --> Table 'tbm_anushapublishing.post_comments' doesn't exist
+#0 C:\laragon\www\anushapublishing\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\anushapublishing\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\anushapublishing\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\anushapublishing\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\anushapublishing\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\anushapublishing\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\anushapublishing\app\Controllers\Home.php(43): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('dasd-sadsa-asda...')
+#8 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 06:43:15 --> Table 'tbm_anushapublishing.users' doesn't exist
+CRITICAL - 2022-06-06 06:43:15 --> Table 'tbm_anushapublishing.users' doesn't exist
+#0 C:\laragon\www\anushapublishing\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\laragon\www\anushapublishing\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\laragon\www\anushapublishing\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\laragon\www\anushapublishing\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\laragon\www\anushapublishing\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\anushapublishing\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('krishnabilashba...', 'email', Array, NULL)
+#6 C:\laragon\www\anushapublishing\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'krishnabilashba...', Array, Array)
+#7 C:\laragon\www\anushapublishing\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\laragon\www\anushapublishing\app\Controllers\Home.php(25): CodeIgniter\Controller->validate(Array)
+#9 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->signIn()
+#10 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#11 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-06-06 08:04:19 --> Undefined offset: 0
+#0 C:\laragon\www\anushapublishing\app\Controllers\Home.php(143): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\laragon\\www\\...', 143, Array)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->account()
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 08:16:38 --> Undefined variable: new_password
+#0 C:\laragon\www\anushapublishing\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 149, Array)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->account()
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 08:17:06 --> Undefined variable: new_password
+#0 C:\laragon\www\anushapublishing\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 149, Array)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->account()
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 08:19:19 --> Undefined variable: new_password
+#0 C:\laragon\www\anushapublishing\app\Controllers\Home.php(149): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 149, Array)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->account()
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 08:22:21 --> Undefined variable: current_password
+#0 C:\laragon\www\anushapublishing\app\Controllers\Home.php(150): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 150, Array)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->account()
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 08:23:38 --> Undefined variable: name
+#0 C:\laragon\www\anushapublishing\app\Controllers\Home.php(152): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 152, Array)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->account()
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 08:24:29 --> There is no data to update.
+#0 C:\laragon\www\anushapublishing\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\laragon\www\anushapublishing\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\laragon\www\anushapublishing\system\Model.php(651): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\laragon\www\anushapublishing\app\Controllers\Home.php(156): CodeIgniter\Model->update(Array)
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->account()
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

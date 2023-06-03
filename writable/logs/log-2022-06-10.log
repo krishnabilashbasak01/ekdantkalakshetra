@@ -1,0 +1,17 @@
+CRITICAL - 2022-06-10 01:08:34 --> Undefined variable: blogs
+#0 C:\laragon\www\anushapublishing\app\Views\admin\products.php(93): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 93, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/products', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(227): view('admin/products', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->products()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-10 01:22:55 --> Too few arguments to function App\Controllers\Admin::editProduct(), 0 passed in C:\laragon\www\anushapublishing\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->editProduct()
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

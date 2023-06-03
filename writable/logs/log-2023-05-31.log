@@ -1,0 +1,12 @@
+CRITICAL - 2023-05-31 07:32:14 --> Undefined variable $env
+#0 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\app\Views\client\about.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Users\\Krishn...', 208)
+#1 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\system\View\View.php(210): include('C:\\Users\\Krishn...')
+#2 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\system\Common.php(1089): CodeIgniter\View\View->render('client/about', Array, true)
+#4 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\app\Controllers\Home.php(149): view('client/about', Array)
+#5 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->about()
+#6 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Krishna Bilask Basak\Downloads\ekdant\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Krishn...')
+#10 {main}

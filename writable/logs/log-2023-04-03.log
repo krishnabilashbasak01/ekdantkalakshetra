@@ -1,0 +1,350 @@
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'popper.js', 'dist', 'umd', 'popper.min.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'malihu-custom-s...', 'jquery.mCustomS...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'bootstrap-selec...', 'dist', 'js', 'bootstrap-selec...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'bootstrap', 'bootstrap.min.j...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.selectpicker...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'hs.core.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'multilevel-slid...', 'dist', 'jquery.zeynep.j...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'jquery-migrate', 'dist', 'jquery-migrate....')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.slick-carous...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.malihu-scrol...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.unfold.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.show-animati...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:28:59 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.header.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:29:00 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'slick-carousel', 'slick', 'slick.min.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:29:00 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'jquery', 'dist', 'jquery.min.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:12 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'multilevel-slid...', 'dist', 'jquery.zeynep.j...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:12 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'jquery-migrate', 'dist', 'jquery-migrate....')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:12 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'hs.core.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.header.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'bootstrap-selec...', 'dist', 'js', 'bootstrap-selec...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.unfold.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.slick-carous...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'bootstrap', 'bootstrap.min.j...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'popper.js', 'dist', 'umd', 'popper.min.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'jquery', 'dist', 'jquery.min.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'slick-carousel', 'slick', 'slick.min.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.malihu-scrol...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.selectpicker...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'malihu-custom-s...', 'jquery.mCustomS...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 07:50:13 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.show-animati...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 08:41:23 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('favicon.ico')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 08:41:24 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('favicon.ico')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 08:52:10 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('wp-includes', 'wlwmanifest.xml')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:04:07 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('\xC3\xA0\xC2\xA6\xC2\xB8\xC3\xA0\xC2\xA7\xC2\x8D\xC3\xA0\xC2...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:35 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'hs.core.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:35 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.header.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:35 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'jquery-migrate', 'dist', 'jquery-migrate....')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:35 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.selectpicker...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:35 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.slick-carous...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:35 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'multilevel-slid...', 'dist', 'jquery.zeynep.j...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:36 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'bootstrap-selec...', 'dist', 'js', 'bootstrap-selec...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:36 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.malihu-scrol...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:36 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'bootstrap', 'bootstrap.min.j...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:36 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'popper.js', 'dist', 'umd', 'popper.min.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:36 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.show-animati...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:36 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'jquery', 'dist', 'jquery.min.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:36 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'js', 'components', 'hs.unfold.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:36 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'malihu-custom-s...', 'jquery.mCustomS...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 09:51:36 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('client_assets', 'vendor', 'slick-carousel', 'slick', 'slick.min.js')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-03 22:57:31 --> Undefined offset: 0
+#0 /home/thinkbizzmarcom/montajpublishing.com/app/Controllers/Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/home/thinkbizz...', 127, Array)
+#1 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(832): App\Controllers\Home->blog('\xC3\xA0\xC2\xA6\xC2\xB8\xC3\xA0\xC2\xA7\xC2\x8D\xC3\xA0\xC2...')
+#2 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 /home/thinkbizzmarcom/montajpublishing.com/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/thinkbizzmarcom/montajpublishing.com/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

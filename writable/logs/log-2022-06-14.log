@@ -1,0 +1,121 @@
+CRITICAL - 2022-06-14 02:08:17 --> Undefined variable: user_email
+#0 C:\laragon\www\anushapublishing\app\Views\admin\orders.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 96, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/orders', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(353): view('admin/orders', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->orders()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 02:13:54 --> Undefined variable: user_email
+#0 C:\laragon\www\anushapublishing\app\Views\admin\orders.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 96, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/orders', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(360): view('admin/orders', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->orders()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 02:15:12 --> Undefined variable: orders
+#0 C:\laragon\www\anushapublishing\app\Views\admin\orders.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 96, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/orders', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(360): view('admin/orders', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->orders()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 02:15:33 --> Undefined variable: user_email
+#0 C:\laragon\www\anushapublishing\app\Views\admin\orders.php(101): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 101, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/orders', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(361): view('admin/orders', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->orders()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 02:32:57 --> Undefined property: App\Controllers\Admin::$db
+#0 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(368): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\laragon\\www\\...', 368, Array)
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->order('(:any)')
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-14 02:45:01 --> Undefined variable: orders
+#0 C:\laragon\www\anushapublishing\app\Views\admin\order.php(84): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 84, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/order', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(376): view('admin/order', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->order('(:any)')
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 02:45:22 --> Undefined variable: order_id
+#0 C:\laragon\www\anushapublishing\app\Views\admin\order.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 89, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/order', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(376): view('admin/order', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->order('(:any)')
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 02:45:48 --> Undefined variable: order_id
+#0 C:\laragon\www\anushapublishing\app\Views\admin\order.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 90, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/order', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(376): view('admin/order', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->order('(:any)')
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 02:46:20 --> Undefined variable: order_id
+#0 C:\laragon\www\anushapublishing\app\Views\admin\order.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 91, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/order', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(376): view('admin/order', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->order('(:any)')
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 02:48:53 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::getResults()
+#0 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->order('(:any)')
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-14 04:13:18 --> Trying to get property 'user_email' of non-object
+#0 C:\laragon\www\anushapublishing\app\Views\admin\order.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\laragon\\www\\...', 65, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('admin/order', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Admin.php(383): view('admin/order', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Admin->order('order_JgzZcasaU...')
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-14 04:51:33 --> syntax error, unexpected end of file
+#0 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/cart', Array, true)
+#2 C:\laragon\www\anushapublishing\app\Controllers\Home.php(215): view('client/cart', Array)
+#3 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->cart()
+#4 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

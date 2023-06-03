@@ -1,0 +1,23 @@
+CRITICAL - 2022-06-04 01:36:30 --> Too few arguments to function App\Controllers\Home::gallery(), 0 passed in C:\laragon\www\anushapublishing\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->gallery()
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-04 08:52:02 --> Undefined variable: thumbnail
+#0 C:\laragon\www\anushapublishing\app\Views\client\blogs.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 48, Array)
+#1 C:\laragon\www\anushapublishing\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\anushapublishing\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\anushapublishing\system\Common.php(1089): CodeIgniter\View\View->render('client/blogs', Array, true)
+#4 C:\laragon\www\anushapublishing\app\Controllers\Home.php(35): view('client/blogs', Array)
+#5 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->blogs()
+#6 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-04 08:55:36 --> Argument 1 passed to App\Controllers\Home::blog() must be of the type int, string given, called in C:\laragon\www\anushapublishing\system\CodeIgniter.php on line 832
+#0 C:\laragon\www\anushapublishing\system\CodeIgniter.php(832): App\Controllers\Home->blog('dasd-sadsa-asda...')
+#1 C:\laragon\www\anushapublishing\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\laragon\www\anushapublishing\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\anushapublishing\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

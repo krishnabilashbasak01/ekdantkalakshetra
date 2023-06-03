@@ -1,0 +1,53 @@
+CRITICAL - 2022-11-25 05:40:30 --> Undefined variable $post_id
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/app/Views/admin/gallery.php(117): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/View/View.php(210): include('...')
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/system/Common.php(1089): CodeIgniter\View\View->render()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/app/Controllers/Admin.php(404): view()
+#5 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Admin->gallery()
+#6 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#7 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#8 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}
+CRITICAL - 2022-11-25 06:06:47 --> Undefined variable $gallerySection
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/app/Views/admin/edit-gallery-section.php(153): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/View/View.php(210): include('...')
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/system/Common.php(1089): CodeIgniter\View\View->render()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/app/Controllers/Admin.php(440): view()
+#5 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Admin->gallerySectionEdit()
+#6 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#7 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#8 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}
+CRITICAL - 2022-11-25 06:23:02 --> Call to a member function move() on null
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Admin->gallerySectionImageUpload()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2022-11-25 06:23:51 --> There is no data to insert.
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/Model.php(625): CodeIgniter\BaseModel->insert()
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/app/Controllers/Admin.php(456): CodeIgniter\Model->insert()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Admin->gallerySectionImageUpload()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#8 {main}
+CRITICAL - 2022-11-25 07:27:36 --> Undefined variable $gallerySection
+#0 /media/krishna/568F6A40360E4756/TBM/montaj/app/Views/admin/edit-product.php(431): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/krishna/568F6A40360E4756/TBM/montaj/system/View/View.php(210): include('...')
+#2 /media/krishna/568F6A40360E4756/TBM/montaj/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /media/krishna/568F6A40360E4756/TBM/montaj/system/Common.php(1089): CodeIgniter\View\View->render()
+#4 /media/krishna/568F6A40360E4756/TBM/montaj/app/Controllers/Admin.php(299): view()
+#5 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(832): App\Controllers\Admin->editProduct()
+#6 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#7 /media/krishna/568F6A40360E4756/TBM/montaj/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#8 /media/krishna/568F6A40360E4756/TBM/montaj/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /media/krishna/568F6A40360E4756/TBM/montaj/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}

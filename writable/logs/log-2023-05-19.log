@@ -1,0 +1,36 @@
+CRITICAL - 2023-05-19 08:44:32 --> Undefined array key 0
+#0 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\TBM\\ekdantak...', 129)
+#1 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->blog('asdasda')
+#2 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#6 {main}
+CRITICAL - 2023-05-19 08:45:06 --> Undefined variable $data
+#0 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\TBM\\ekdantak...', 133)
+#1 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->blog('asdasda')
+#2 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#6 {main}
+CRITICAL - 2023-05-19 08:59:46 --> Invalid file: client/login.php
+#0 E:\TBM\ekdantakalakshetra\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('client/login.ph...')
+#1 E:\TBM\ekdantakalakshetra\system\Common.php(1089): CodeIgniter\View\View->render('client/login', Array, true)
+#2 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(91): view('client/login', Array)
+#3 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->signIn()
+#4 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#8 {main}
+CRITICAL - 2023-05-19 08:59:53 --> Invalid file: client/login.php
+#0 E:\TBM\ekdantakalakshetra\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('client/login.ph...')
+#1 E:\TBM\ekdantakalakshetra\system\Common.php(1089): CodeIgniter\View\View->render('client/login', Array, true)
+#2 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(91): view('client/login', Array)
+#3 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->signIn()
+#4 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#8 {main}

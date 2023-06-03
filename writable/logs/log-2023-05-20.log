@@ -1,0 +1,106 @@
+ERROR - 2023-05-20 07:09:10 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2023-05-20 07:09:10 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 E:\TBM\ekdantakalakshetra\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\TBM\ekdantakalakshetra\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\TBM\ekdantakalakshetra\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\TBM\ekdantakalakshetra\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(105): CodeIgniter\BaseModel->findAll()
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->blogs()
+#6 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#10 {main}
+ERROR - 2023-05-20 07:10:33 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2023-05-20 07:10:33 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 E:\TBM\ekdantakalakshetra\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\TBM\ekdantakalakshetra\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\TBM\ekdantakalakshetra\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\TBM\ekdantakalakshetra\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(105): CodeIgniter\BaseModel->findAll()
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->blogs()
+#6 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#10 {main}
+ERROR - 2023-05-20 07:11:14 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2023-05-20 07:11:14 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 E:\TBM\ekdantakalakshetra\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\TBM\ekdantakalakshetra\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\TBM\ekdantakalakshetra\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\TBM\ekdantakalakshetra\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(105): CodeIgniter\BaseModel->findAll()
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->blogs()
+#6 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#10 {main}
+ERROR - 2023-05-20 07:11:40 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2023-05-20 07:11:40 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 E:\TBM\ekdantakalakshetra\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\TBM\ekdantakalakshetra\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\TBM\ekdantakalakshetra\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\TBM\ekdantakalakshetra\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(105): CodeIgniter\BaseModel->findAll()
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->blogs()
+#6 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#10 {main}
+ERROR - 2023-05-20 07:11:58 --> Error connecting to the database: Access denied for user '****'@'49.37.52.167' to database 'ekdantakalakshetra'
+CRITICAL - 2023-05-20 07:11:58 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'49.37.52.167' to database 'ekdantakalakshetra'
+#0 E:\TBM\ekdantakalakshetra\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\TBM\ekdantakalakshetra\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\TBM\ekdantakalakshetra\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\TBM\ekdantakalakshetra\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(105): CodeIgniter\BaseModel->findAll()
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->blogs()
+#6 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#10 {main}
+CRITICAL - 2023-05-20 07:29:12 --> Undefined variable $blog
+#0 E:\TBM\ekdantakalakshetra\app\Views\client\blog.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\TBM\\ekdantak...', 57)
+#1 E:\TBM\ekdantakalakshetra\system\View\View.php(210): include('E:\\TBM\\ekdantak...')
+#2 E:\TBM\ekdantakalakshetra\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\TBM\ekdantakalakshetra\system\Common.php(1089): CodeIgniter\View\View->render('client/blog', Array, true)
+#4 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(133): view('client/blog', Array)
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->blog('\xE0\xA6\xB0\xE0\xA6\xBE\xE0\xA6\x9C\xE0\xA6\xBE\xE0\xA6\xB0...')
+#6 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#10 {main}
+CRITICAL - 2023-05-20 07:56:33 --> Undefined variable $user_name
+#0 E:\TBM\ekdantakalakshetra\app\Views\admin\testimonials.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\TBM\\ekdantak...', 133)
+#1 E:\TBM\ekdantakalakshetra\system\View\View.php(210): include('E:\\TBM\\ekdantak...')
+#2 E:\TBM\ekdantakalakshetra\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\TBM\ekdantakalakshetra\system\Common.php(1089): CodeIgniter\View\View->render('admin/testimoni...', Array, true)
+#4 E:\TBM\ekdantakalakshetra\app\Controllers\Admin.php(242): view('admin/testimoni...', Array)
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Admin->testimonials()
+#6 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#10 {main}
+CRITICAL - 2023-05-20 08:45:14 --> Undefined variable $blogs
+#0 E:\TBM\ekdantakalakshetra\app\Views\client\home.php(856): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\TBM\\ekdantak...', 856)
+#1 E:\TBM\ekdantakalakshetra\system\View\View.php(210): include('E:\\TBM\\ekdantak...')
+#2 E:\TBM\ekdantakalakshetra\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\TBM\ekdantakalakshetra\system\Common.php(1089): CodeIgniter\View\View->render('client/home', Array, true)
+#4 E:\TBM\ekdantakalakshetra\app\Controllers\Home.php(42): view('client/home', Array)
+#5 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 E:\TBM\ekdantakalakshetra\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\TBM\ekdantakalakshetra\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 E:\TBM\ekdantakalakshetra\system\Commands\Server\rewrite.php(43): require_once('E:\\TBM\\ekdantak...')
+#10 {main}
